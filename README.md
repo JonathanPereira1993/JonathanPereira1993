@@ -22,16 +22,16 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://JonathanPereira1993.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://JonathanPereira1993.com">Jonathan Pereira</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="[https://www.google.com/search?q=Al+Siam](https://www.linkedin.com/in/jonathan-pereira-5421b3152/)">「 Linked In Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Fron End developer from <b>Portugal</b> 」
     <br>
     <br>
   </samp>
@@ -63,12 +63,11 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: JonathanPereira1993.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/JonathanPereira1993/JonathanPereira1993/issues)
+ ✌️ &emsp; Embracing the joy of coding, learning with enthusiasm, and finding fun in every mistake made along the way. <br/><br/>
+ ❤️ &emsp; Passionate about coding and building digital wonders.<br/><br/>
+ 📧 &emsp; Reach me anytime: jonathanbrancopereira@gmail.com<br/><br/>
 
 </p>
 
