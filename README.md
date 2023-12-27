@@ -31,7 +31,7 @@
   <samp>
     <a href="[https://www.google.com/search?q=Al+Siam](https://www.linkedin.com/in/jonathan-pereira-5421b3152/)">「 Linked In Me 」</a>
     <br>
-    「 I am a Fron End developer from <b>Portugal</b> 」
+    「 I am a FrontEnd developer from <b>Portugal</b> 」
     <br>
     <br>
   </samp>
